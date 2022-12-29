@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @missionmarsjanvisinha
-- 👀 I’m interested in programming, automation and AI
-- 🌱 I’m currently learning python and java specialization 
+- 👋 Hi, I’m Janvi
+- 👀 I’m extremely passionate about technology and interested in programming, automation and AI
+- 🌱 I’m currently doing Msc in Computer Science with specialization in python and java 
 - 📫 Connect with me if you think we can be helpful to each other
 
 <!---
